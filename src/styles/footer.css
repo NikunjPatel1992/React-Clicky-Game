@@ -1,0 +1,16 @@
+.footer{
+    position: fixed;
+    left: 0;
+    /* bottom: 0; */
+    width: 100%;
+    background-color: rgb(139, 107, 228);
+    color: white;
+    text-align: center;
+    border-top: 20px solid rgb(161, 140, 218);
+}
+.App-logo {    
+    height: 40px;
+    width: 40px;
+    pointer-events: none;
+  }
+  
